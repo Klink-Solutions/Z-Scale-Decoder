@@ -27,6 +27,20 @@ My DCC decoder is meant to bridge this gap and fit in larger locomotives and the
     * Initial release 
 
 ## BOM
+|Value         |Designator |Footprint     |JLCPCB Part #          |
+|--------------|-----------|--------------|-----------------------|
+|0.1uF         |C1,C3      |C0201         |C2158829               |
+|10uF 25V      |C2         |C1206         |C2158829               |
+|2.2uF         |C4         |C0201         |C6204143               |
+|1uF           |C5         |C0201         |C307385                |
+|PMEG3010AESBYL|D1,D2,D3,D4|D0402         |C28646369              |
+|220k          |R1         |R0201         |C158699                |
+|470           |R2         |R0201         |C144816                |
+|47k           |R3,R5      |R0201         |C100140                |
+|22k           |R4,R6      |R0201         |C295842                |
+|DRV8220DSGR   |U1         |WSON-8(2x2)   |C3681269               |
+|TPS70950DRVR  |U2         |WSON-6-EP(2x2)|C527527                |
+|ATTINY826-MU  |U3         |VQFN-20(3x3)  |C3216887               |
 
 
 ## Help
